@@ -13,3 +13,9 @@
 h1{
 font-size: 40px;
 }
+
+.App-footer{
+  margin: 20px;
+  text-align: center;
+  font-size: 12px;
+}
